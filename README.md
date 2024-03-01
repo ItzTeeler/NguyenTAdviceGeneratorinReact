@@ -1,15 +1,16 @@
-Name - Tyler Nguyen
-Date - 3-1-2024
-Lab Name - Advice Generator In React
-Description - 
-The following project is an Advice Generator.
-Built in React and Typescript
-Api used - https://api.adviceslip.com/advice
-Responsive to Mobile and Desktop versions
-Styles with tailwindCSS
-One click of the button it should display a new advice and on load
-Peer Reviewer - 
-Peer Review -
+Name - Tyler Nguyen<br>
+Date - 3-1-2024<br>
+Lab Name - Advice Generator In React<br>
+Description -<br>
+The following project is an Advice Generator.<br>
+Built in React and Typescript<br>
+Api used - https://api.adviceslip.com/advice<br>
+Responsive to Mobile and Desktop versions<br>
+Styles with tailwindCSS<br>
+One click of the button it should display a new advice and on load<br>
+Peer Reviewer - Adrian Martinez<br>
+Peer Review - Site functions at intended, displays new advice when clicking the button, and is fully responsive from mobile to desktop screens, great job 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
