@@ -9,7 +9,7 @@ Responsive to Mobile and Desktop versions<br>
 Styles with tailwindCSS<br>
 One click of the button it should display a new advice and on load<br>
 Peer Reviewer - Adrian Martinez<br>
-Peer Review - Site functions at intended, displays new advice when clicking the button, and is fully responsive from mobile to desktop screens, great job 
+Peer Review - Site functions at intended, displays new advice when clicking the button, and is fully responsive from mobile to desktop screens, great job! 
 
 # Getting Started with Create React App
 
